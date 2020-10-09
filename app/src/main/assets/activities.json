@@ -1,0 +1,940 @@
+{
+  "activities": [
+    {
+      "Activity Name": "Kayaking and canoeing",
+      "Category": "Boat_and_Water"
+    },
+    {
+      "Activity Name": "Stand-Up Paddleboarding",
+      "Category": "Boat_and_Water"
+    },
+    {
+      "Activity Name": "Waterskiing and jetskiing",
+      "Category": "Boat_and_Water"
+    },
+    {
+      "Activity Name": "Swim with dolphins",
+      "Category": "Boat_and_Water"
+    },
+    {
+      "Activity Name": "Windsurfing and Kitesurfing",
+      "Category": "Boat_and_Water"
+    },
+    {
+      "Activity Name": "Submarine tours",
+      "Category": "Boat_and_Water"
+    },
+    {
+      "Activity Name": "Shark diving",
+      "Category": "Boat_and_Water"
+    },
+    {
+      "Activity Name": "Scuba and snorkelling",
+      "Category": "Boat_and_Water"
+    },
+    {
+      "Activity Name": "River rafting and tubing",
+      "Category": "Boat_and_Water"
+    },
+    {
+      "Activity Name": "Parasailing and paragliding",
+      "Category": "Boat_and_Water"
+    },
+    {
+      "Activity Name": "Water sports",
+      "Category": "Boat_and_Water"
+    },
+    {
+      "Activity Name": "Speed boats tours",
+      "Category": "Boat_and_Water"
+    },
+    {
+      "Activity Name": "Duck tours",
+      "Category": "Boat_and_Water"
+    },
+    {
+      "Activity Name": "Boat Tours",
+      "Category": "Boat_and_Water"
+    },
+    {
+      "Activity Name": "Boat rentals",
+      "Category": "Boat_and_Water"
+    },
+    {
+      "Activity Name": "Dolphin and whale watching",
+      "Category": "Boat_and_Water"
+    },
+    {
+      "Activity Name": "Fishing charters and tours",
+      "Category": "Boat_and_Water"
+    },
+    {
+      "Activity Name": "Gondola cruises",
+      "Category": "Boat_and_Water"
+    },
+    {
+      "Activity Name": "Horse Tracks",
+      "Category": "Casinos_and_Gambling"
+    },
+    {
+      "Activity Name": "Casinos",
+      "Category": "Casinos_and_Gambling"
+    },
+    {
+      "Activity Name": "Dog Tracks",
+      "Category": "Casinos_and_Gambling"
+    },
+    {
+      "Activity Name": "Classes and Workshops",
+      "Category": "Classes_and_Workshops"
+    },
+    {
+      "Activity Name": "Cooking classes",
+      "Category": "Classes_and_Workshops"
+    },
+    {
+      "Activity Name": "Paint and Pottery Studios",
+      "Category": "Classes_and_Workshops"
+    },
+    {
+      "Activity Name": "Sports Camps and Clinics",
+      "Category": "Classes_and_Workshops"
+    },
+    {
+      "Activity Name": "Jazz Bars",
+      "Category": "Concerts_and_Shows"
+    },
+    {
+      "Activity Name": "Concerts",
+      "Category": "Concerts_and_Shows"
+    },
+    {
+      "Activity Name": "Operas,Symphonies",
+      "Category": "Concerts_and_Shows"
+    },
+    {
+      "Activity Name": "Ballets,Theaters",
+      "Category": "Concerts_and_Shows"
+    },
+    {
+      "Activity Name": "Cabaret",
+      "Category": "Concerts_and_Shows"
+    },
+    {
+      "Activity Name": "Cirque du Soleil",
+      "Category": "Concerts_and_Shows"
+    },
+    {
+      "Activity Name": "Luaus",
+      "Category": "Concerts_and_Shows"
+    },
+    {
+      "Activity Name": "Sporting events",
+      "Category": "Concerts_and_Shows"
+    },
+    {
+      "Activity Name": "Theater and musicals",
+      "Category": "Concerts_and_Shows"
+    },
+    {
+      "Activity Name": "Blues Bars",
+      "Category": "Concerts_and_Shows"
+    },
+    {
+      "Activity Name": "Piano Bar",
+      "Category": "Concerts_and_Shows"
+    },
+    {
+      "Activity Name": "Comedy Club",
+      "Category": "Concerts_and_Shows"
+    },
+    {
+      "Activity Name": "Food and Drink Festivals",
+      "Category": "Events"
+    },
+    {
+      "Activity Name": "Cultural Events",
+      "Category": "Events"
+    },
+    {
+      "Activity Name": "Seasonal Fireworks",
+      "Category": "Events"
+    },
+    {
+      "Activity Name": "Exhibitions",
+      "Category": "Events"
+    },
+    {
+      "Activity Name": "Music Festivals",
+      "Category": "Events"
+    },
+    {
+      "Activity Name": "Farmers markets",
+      "Category": "Food_and_Drink"
+    },
+    {
+      "Activity Name": "Distillery Tours",
+      "Category": "Food_and_Drink"
+    },
+    {
+      "Activity Name": "Wineries",
+      "Category": "Food_and_Drink"
+    },
+    {
+      "Activity Name": "Breweries",
+      "Category": "Food_and_Drink"
+    },
+    {
+      "Activity Name": "Distilleries",
+      "Category": "Food_and_Drink"
+    },
+    {
+      "Activity Name": "Beer tastings and tours",
+      "Category": "Food_and_Drink"
+    },
+    {
+      "Activity Name": "Coffee and tea tours",
+      "Category": "Food_and_Drink"
+    },
+    {
+      "Activity Name": "Cooking classes",
+      "Category": "Food_and_Drink"
+    },
+    {
+      "Activity Name": "Food tours",
+      "Category": "Food_and_Drink"
+    },
+    {
+      "Activity Name": " Wine tastings and tours",
+      "Category": "Food_and_Drink"
+    },
+    {
+      "Activity Name": "Wine Bar",
+      "Category": "Food_and_Drink"
+    },
+    {
+      "Activity Name": "Bowling Alleys",
+      "Category": "Fun_and_Games"
+    },
+    {
+      "Activity Name": "Movie Theaters",
+      "Category": "Fun_and_Games"
+    },
+    {
+      "Activity Name": "Game/ Entertainment Centers",
+      "Category": "Fun_and_Games"
+    },
+    {
+      "Activity Name": "Comedy Clubs",
+      "Category": "Fun_and_Games"
+    },
+    {
+      "Activity Name": "Character Experiences",
+      "Category": "Fun_and_Games"
+    },
+    {
+      "Activity Name": "Wedding Chapels",
+      "Category": "Fun_and_Games"
+    },
+    {
+      "Activity Name": "Shooting ranges",
+      "Category": "Fun_and_Games"
+    },
+    {
+      "Activity Name": "Scavenger hunt",
+      "Category": "Fun_and_Games"
+    },
+    {
+      "Activity Name": "Escape games",
+      "Category": "Fun_and_Games"
+    },
+    {
+      "Activity Name": "Rides and Activities",
+      "Category": "Fun_and_Games"
+    },
+    {
+      "Activity Name": "Sports Complexes",
+      "Category": "Fun_and_Games"
+    },
+    {
+      "Activity Name": "Miniature Golf",
+      "Category": "Fun_and_Games"
+    },
+    {
+      "Activity Name": "Paint and Pottery Studios",
+      "Category": "Fun_and_Games"
+    },
+    {
+      "Activity Name": "Dog Tracks",
+      "Category": "Fun_and_Games"
+    },
+    {
+      "Activity Name": "Horse Tracks",
+      "Category": "Fun_and_Games"
+    },
+    {
+      "Activity Name": "Casinos",
+      "Category": "Fun_and_Games"
+    },
+    {
+      "Activity Name": "Playgrounds",
+      "Category": "Fun_and_Games"
+    },
+    {
+      "Activity Name": "Observatories/ Planetariums",
+      "Category": "Museums"
+    },
+    {
+      "Activity Name": "Military Museums",
+      "Category": "Museums"
+    },
+    {
+      "Activity Name": "Museums",
+      "Category": "Museums"
+    },
+    {
+      "Activity Name": "Natural History Museums",
+      "Category": "Museums"
+    },
+    {
+      "Activity Name": "Children Museums",
+      "Category": "Museums"
+    },
+    {
+      "Activity Name": "Science Museums",
+      "Category": "Museums"
+    },
+    {
+      "Activity Name": "Specialty Museums",
+      "Category": "Museums"
+    },
+    {
+      "Activity Name": "Art Galleries",
+      "Category": "Museums"
+    },
+    {
+      "Activity Name": "Art Museums",
+      "Category": "Museums"
+    },
+    {
+      "Activity Name": "History Museums",
+      "Category": "Museums"
+    },
+    {
+      "Activity Name": "National Parks",
+      "Category": "Nature_and_Parks"
+    },
+    {
+      "Activity Name": "Playgrounds",
+      "Category": "Nature_and_Parks"
+    },
+    {
+      "Activity Name": "Biking Trails",
+      "Category": "Nature_and_Parks"
+    },
+    {
+      "Activity Name": "Equestrian Trails",
+      "Category": "Nature_and_Parks"
+    },
+    {
+      "Activity Name": "Hiking Trails",
+      "Category": "Nature_and_Parks"
+    },
+    {
+      "Activity Name": "Motorcycle Trails",
+      "Category": "Nature_and_Parks"
+    },
+    {
+      "Activity Name": "Off road/All Terrain Vehicle Trails",
+      "Category": "Nature_and_Parks"
+    },
+    {
+      "Activity Name": "Ski/ Snowboard Areas",
+      "Category": "Nature_and_Parks"
+    },
+    {
+      "Activity Name": "Beaches",
+      "Category": "Nature_and_Parks"
+    },
+    {
+      "Activity Name": "Zoos",
+      "Category": "Nature_and_Parks"
+    },
+    {
+      "Activity Name": "Aquariums",
+      "Category": "Nature_and_Parks"
+    },
+    {
+      "Activity Name": "Bodies of Water",
+      "Category": "Nature_and_Parks"
+    },
+    {
+      "Activity Name": "Canyons",
+      "Category": "Nature_and_Parks"
+    },
+    {
+      "Activity Name": "Caverns/ Caves",
+      "Category": "Nature_and_Parks"
+    },
+    {
+      "Activity Name": "Dams",
+      "Category": "Nature_and_Parks"
+    },
+    {
+      "Activity Name": "Deserts",
+      "Category": "Nature_and_Parks"
+    },
+    {
+      "Activity Name": "Forests",
+      "Category": "Nature_and_Parks"
+    },
+    {
+      "Activity Name": "Gardens",
+      "Category": "Nature_and_Parks"
+    },
+    {
+      "Activity Name": "Geologic Formations",
+      "Category": "Nature_and_Parks"
+    },
+    {
+      "Activity Name": "Hot Springs/ Geysers",
+      "Category": "Nature_and_Parks"
+    },
+    {
+      "Activity Name": "Islands",
+      "Category": "Nature_and_Parks"
+    },
+    {
+      "Activity Name": "Marinas",
+      "Category": "Nature_and_Parks"
+    },
+    {
+      "Activity Name": "Mountains",
+      "Category": "Nature_and_Parks"
+    },
+    {
+      "Activity Name": "Nature/ Wildlife Areas",
+      "Category": "Nature_and_Parks"
+    },
+    {
+      "Activity Name": "Parks",
+      "Category": "Nature_and_Parks"
+    },
+    {
+      "Activity Name": "Reefs",
+      "Category": "Nature_and_Parks"
+    },
+    {
+      "Activity Name": "State Parks",
+      "Category": "Nature_and_Parks"
+    },
+    {
+      "Activity Name": "Valleys",
+      "Category": "Nature_and_Parks"
+    },
+    {
+      "Activity Name": "Volcanos",
+      "Category": "Nature_and_Parks"
+    },
+    {
+      "Activity Name": "Waterfalls",
+      "Category": "Nature_and_Parks"
+    },
+    {
+      "Activity Name": "Wine Bar",
+      "Category": "Nightlife"
+    },
+    {
+      "Activity Name": "Bar",
+      "Category": "Nightlife"
+    },
+    {
+      "Activity Name": "club and pub tours",
+      "Category": "Nightlife"
+    },
+    {
+      "Activity Name": "Gay Bars",
+      "Category": "Nightlife"
+    },
+    {
+      "Activity Name": "Piano Bar",
+      "Category": "Nightlife"
+    },
+    {
+      "Activity Name": "Cigar Bars",
+      "Category": "Nightlife"
+    },
+    {
+      "Activity Name": "Jazz Bars",
+      "Category": "Nightlife"
+    },
+    {
+      "Activity Name": "Karaoke Bars",
+      "Category": "Nightlife"
+    },
+    {
+      "Activity Name": "Country Western Bars",
+      "Category": "Nightlife"
+    },
+    {
+      "Activity Name": "Bar/ Clubs",
+      "Category": "Nightlife"
+    },
+    {
+      "Activity Name": "Blues Bars",
+      "Category": "Nightlife"
+    },
+    {
+      "Activity Name": "Dance Club/ Discos",
+      "Category": "Nightlife"
+    },
+    {
+      "Activity Name": "Comedy Clubs",
+      "Category": "Nightlife"
+    },
+    {
+      "Activity Name": "Coffeehouses",
+      "Category": "Nightlife"
+    },
+    {
+      "Activity Name": "Sports Camps/ Clinics",
+      "Category": "Outdoor_Activities"
+    },
+    {
+      "Activity Name": "Horseback Riding Stables",
+      "Category": "Outdoor_Activities"
+    },
+    {
+      "Activity Name": "Golf Courses",
+      "Category": "Outdoor_Activities"
+    },
+    {
+      "Activity Name": "Motorcycle Trail",
+      "Category": "Outdoor_Activities"
+    },
+    {
+      "Activity Name": "Hiking Trails",
+      "Category": "Outdoor_Activities"
+    },
+    {
+      "Activity Name": "Cross-country Ski Areas",
+      "Category": "Outdoor_Activities"
+    },
+    {
+      "Activity Name": "Zoos",
+      "Category": "Outdoor_Activities"
+    },
+    {
+      "Activity Name": "Surf Camp",
+      "Category": "Outdoor_Activities"
+    },
+    {
+      "Activity Name": "Submarine tours",
+      "Category": "Outdoor_Activities"
+    },
+    {
+      "Activity Name": "Parasailing and paragliding",
+      "Category": "Outdoor_Activities"
+    },
+    {
+      "Activity Name": "Shark diving",
+      "Category": "Outdoor_Activities"
+    },
+    {
+      "Activity Name": "Scuba and snorkelling",
+      "Category": "Outdoor_Activities"
+    },
+    {
+      "Activity Name": "River rafting and tubing",
+      "Category": "Outdoor_Activities"
+    },
+    {
+      "Activity Name": "Boat rentals",
+      "Category": "Outdoor_Activities"
+    },
+    {
+      "Activity Name": "Dolphin and whale watching",
+      "Category": "Outdoor_Activities"
+    },
+    {
+      "Activity Name": "Gondola cruises",
+      "Category": "Outdoor_Activities"
+    },
+    {
+      "Activity Name": "Speed boats tours",
+      "Category": "Outdoor_Activities"
+    },
+    {
+      "Activity Name": "Kayaking and canoeing",
+      "Category": "Outdoor_Activities"
+    },
+    {
+      "Activity Name": "Equestrian Trails",
+      "Category": "Outdoor_Activities"
+    },
+    {
+      "Activity Name": "Off road/All Terrain Vehicle Trails",
+      "Category": "Outdoor_Activities"
+    },
+    {
+      "Activity Name": "Biking Trails",
+      "Category": "Outdoor_Activities"
+    },
+    {
+      "Activity Name": "Ski/ Snowboard Areas",
+      "Category": "Outdoor_Activities"
+    },
+    {
+      "Activity Name": "Trails",
+      "Category": "Outdoor_Activities"
+    },
+    {
+      "Activity Name": "Beaches",
+      "Category": "Outdoor_Activities"
+    },
+    {
+      "Activity Name": "Scenic Drives",
+      "Category": "Outdoor_Activities"
+    },
+    {
+      "Activity Name": "Horse-Drawn Carriage Tours",
+      "Category": "Outdoor_Activities"
+    },
+    {
+      "Activity Name": "Jogging Paths/ Tracks",
+      "Category": "Outdoor_Activities"
+    },
+    {
+      "Activity Name": "Resort Communities",
+      "Category": "Outdoor_Activities"
+    },
+    {
+      "Activity Name": "Other outdoor activities",
+      "Category": "Outdoor_Activities"
+    },
+    {
+      "Activity Name": "Zipline tours",
+      "Category": "Outdoor_Activities"
+    },
+    {
+      "Activity Name": "Stand-Up Paddleboarding",
+      "Category": "Outdoor_Activities"
+    },
+    {
+      "Activity Name": "Ski and snow tours",
+      "Category": "Outdoor_Activities"
+    },
+    {
+      "Activity Name": "Safaris",
+      "Category": "Outdoor_Activities"
+    },
+    {
+      "Activity Name": "Running tours",
+      "Category": "Outdoor_Activities"
+    },
+    {
+      "Activity Name": "Canyoning and Rappelling Tours",
+      "Category": "Outdoor_Activities"
+    },
+    {
+      "Activity Name": "Air tours",
+      "Category": "Outdoor_Activities"
+    },
+    {
+      "Activity Name": "Nature and wildlife tours",
+      "Category": "Outdoor_Activities"
+    },
+    {
+      "Activity Name": "Boat Tours",
+      "Category": "Outdoor_Activities"
+    },
+    {
+      "Activity Name": "Hiking and camping tours",
+      "Category": "Outdoor_Activities"
+    },
+    {
+      "Activity Name": "Golf tours and tee times",
+      "Category": "Outdoor_Activities"
+    },
+    {
+      "Activity Name": "Fishing charters and tours",
+      "Category": "Outdoor_Activities"
+    },
+    {
+      "Activity Name": "Eco tours",
+      "Category": "Outdoor_Activities"
+    },
+    {
+      "Activity Name": "Climbing tours",
+      "Category": "Outdoor_Activities"
+    },
+    {
+      "Activity Name": "Bike tours",
+      "Category": "Outdoor_Activities"
+    },
+    {
+      "Activity Name": "Balloon rides",
+      "Category": "Outdoor_Activities"
+    },
+    {
+      "Activity Name": "Adrenaline and extreme tours",
+      "Category": "Outdoor_Activities"
+    },
+    {
+      "Activity Name": "4WD",
+      "Category": "Outdoor_Activities"
+    },
+    {
+      "Activity Name": "ATV and off-road tours",
+      "Category": "Outdoor_Activities"
+    },
+    {
+      "Activity Name": "Duck tours",
+      "Category": "Outdoor_Activities"
+    },
+    {
+      "Activity Name": "Waterskiing and jetskiing",
+      "Category": "Outdoor_Activities"
+    },
+    {
+      "Activity Name": "Swim with dolphins",
+      "Category": "Outdoor_Activities"
+    },
+    {
+      "Activity Name": "Surfing",
+      "Category": "Outdoor_Activities"
+    },
+    {
+      "Activity Name": "Windsurfing and Kitesurfing",
+      "Category": "Outdoor_Activities"
+    },
+    {
+      "Activity Name": "Gear rentals",
+      "Category": "Outdoor_Activities"
+    },
+    {
+      "Activity Name": "Water sports",
+      "Category": "Outdoor_Activities"
+    },
+    {
+      "Activity Name": "Malls",
+      "Category": "Shopping"
+    },
+    {
+      "Activity Name": "Shops",
+      "Category": "Shopping"
+    },
+    {
+      "Activity Name": "Specialty Shops",
+      "Category": "Shopping"
+    },
+    {
+      "Activity Name": "Art Galleries",
+      "Category": "Shopping"
+    },
+    {
+      "Activity Name": "Airport Shops",
+      "Category": "Shopping"
+    },
+    {
+      "Activity Name": "Shopping tours",
+      "Category": "Shopping"
+    },
+    {
+      "Activity Name": "Fashion shows and tours",
+      "Category": "Shopping"
+    },
+    {
+      "Activity Name": "Farmers markets",
+      "Category": "Shopping"
+    },
+    {
+      "Activity Name": "Department Stores",
+      "Category": "Shopping"
+    },
+    {
+      "Activity Name": "Factory Outlets",
+      "Category": "Shopping"
+    },
+    {
+      "Activity Name": "Antique Shops",
+      "Category": "Shopping"
+    },
+    {
+      "Activity Name": "Flea/ Street Markets",
+      "Category": "Shopping"
+    },
+    {
+      "Activity Name": "Religious Sites",
+      "Category": "Sights_and_Landmarks"
+    },
+    {
+      "Activity Name": "Historic Sites",
+      "Category": "Sights_and_Landmarks"
+    },
+    {
+      "Activity Name": "Ancient Ruins",
+      "Category": "Sights_and_Landmarks"
+    },
+    {
+      "Activity Name": "Educational Sites",
+      "Category": "Sights_and_Landmarks"
+    },
+    {
+      "Activity Name": "CastlesChurches/ Cathedrals",
+      "Category": "Sights_and_Landmarks"
+    },
+    {
+      "Activity Name": "Scenic/ Historic Walking Areas",
+      "Category": "Sights_and_Landmarks"
+    },
+    {
+      "Activity Name": "Government Buildings",
+      "Category": "Sights_and_Landmarks"
+    },
+    {
+      "Activity Name": "Reservations",
+      "Category": "Sights_and_Landmarks"
+    },
+    {
+      "Activity Name": "Historic Walking Areas",
+      "Category": "Sights_and_Landmarks"
+    },
+    {
+      "Activity Name": "Mines",
+      "Category": "Sights_and_Landmarks"
+    },
+    {
+      "Activity Name": "Civic Centers",
+      "Category": "Sights_and_Landmarks"
+    },
+    {
+      "Activity Name": "Ghost Towns",
+      "Category": "Sights_and_Landmarks"
+    },
+    {
+      "Activity Name": "Military Bases/ Facilities",
+      "Category": "Sights_and_Landmarks"
+    },
+    {
+      "Activity Name": "Battlefields",
+      "Category": "Sights_and_Landmarks"
+    },
+    {
+      "Activity Name": "Missions",
+      "Category": "Sights_and_Landmarks"
+    },
+    {
+      "Activity Name": "Farms",
+      "Category": "Sights_and_Landmarks"
+    },
+    {
+      "Activity Name": "Landmarks/ Points of Interest",
+      "Category": "Sights_and_Landmarks"
+    },
+    {
+      "Activity Name": "Architectural Buildings",
+      "Category": "Sights_and_Landmarks"
+    },
+    {
+      "Activity Name": "Monuments/ Statues",
+      "Category": "Sights_and_Landmarks"
+    },
+    {
+      "Activity Name": "Bridges",
+      "Category": "Sights_and_Landmarks"
+    },
+    {
+      "Activity Name": "Scenic Drives",
+      "Category": "Sights_and_Landmarks"
+    },
+    {
+      "Activity Name": "Observation Decks/ Towers",
+      "Category": "Sights_and_Landmarks"
+    },
+    {
+      "Activity Name": "Lookouts",
+      "Category": "Sights_and_Landmarks"
+    },
+    {
+      "Activity Name": "Lighthouses",
+      "Category": "Sights_and_Landmarks"
+    },
+    {
+      "Activity Name": "Ships,Wharfs/ Piers/ Boardwalks",
+      "Category": "Sights_and_Landmarks"
+    },
+    {
+      "Activity Name": "Fountains",
+      "Category": "Sights_and_Landmarks"
+    },
+    {
+      "Activity Name": "Mysterious Sites",
+      "Category": "Sights_and_Landmarks"
+    },
+    {
+      "Activity Name": "Arenas/ Stadiums/ Fields",
+      "Category": "Sights_and_Landmarks"
+    },
+    {
+      "Activity Name": "Race Car Tracks",
+      "Category": "Sights_and_Landmarks"
+    },
+    {
+      "Activity Name": "Roman baths",
+      "Category": "Spas_and_Wellness"
+    },
+    {
+      "Activity Name": "Arab baths",
+      "Category": "Spas_and_Wellness"
+    },
+    {
+      "Activity Name": "Day Spas",
+      "Category": "Spas_and_Wellness"
+    },
+    {
+      "Activity Name": "Hammams and Turkish baths",
+      "Category": "Spas_and_Wellness"
+    },
+    {
+      "Activity Name": "Yoga and pilates",
+      "Category": "Spas_and_Wellness"
+    },
+    {
+      "Activity Name": "Thermal spas and hot springs",
+      "Category": "Spas_and_Wellness"
+    },
+    {
+      "Activity Name": "Health Clubs",
+      "Category": "Spas_and_Wellness"
+    },
+    {
+      "Activity Name": "Spas",
+      "Category": "Spas_and_Wellness"
+    },
+    {
+      "Activity Name": "Onsen Resorts",
+      "Category": "Spas_and_Wellness"
+    },
+    {
+      "Activity Name": "Amusement/ Theme Parks",
+      "Category": "Water_and_Amusement_Parks"
+    },
+    {
+      "Activity Name": "Disney",
+      "Category": "Water_and_Amusement_Parks"
+    },
+    {
+      "Activity Name": "Water Parks",
+      "Category": "Water_and_Amusement_Parks"
+    },
+    {
+      "Activity Name": "Zoos",
+      "Category": "Zoos_and_Aquarium"
+    },
+    {
+      "Activity Name": "Aquariums",
+      "Category": "Zoos_and_Aquarium"
+    }
+  ]
+}

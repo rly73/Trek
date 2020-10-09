@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<activites>
+    <string-array name="Boat_and_Water">
+        <item>Kayaking and canoeing</item>
+        <item>Stand-Up Paddleboarding</item>
+        <item>Waterskiing and jetskiing</item>
+        <item>Swim with dolphins,Surfing</item>
+        <item>Windsurfing and Kitesurfing</item>
+        <item>Submarine tours</item>
+        <item>Shark diving</item>
+        <item>Scuba and snorkelling</item>
+        <item>River rafting and tubing</item>
+        <item>Parasailing and paragliding</item>
+        <item>Water sports</item>
+        <item>Speed boats tours</item>
+        <item>Duck tours</item>
+        <item>Boat Tours</item>
+        <item>Boat rentals</item>
+        <item>Dolphin and whale watching</item>
+        <item>Fishing charters and tours</item>
+        <item>Gondola cruises</item> 
+    </string-array>
+    <string-array name="Casinos_and_Gambling">
+        <item>Horse Tracks</item>
+        <item>Casinos</item>
+        <item>Dog Tracks</item>
+    </string-array>
+    <string-array name="Classes_and_Workshops">
+        <item>Classes and Workshops</item>
+        <item>Cooking classes</item>
+        <item>Paint and Pottery Studios</item>
+        <item>Sports Camps and Clinics</item>
+    </string-array>
+    <string-array name="Concerts_and_Shows">
+        <item>Jazz Bars</item>
+        <item>Performances</item>
+        <item>Dinner Theaters</item>
+        <item>Concerts</item>
+        <item>Operas,Symphonies</item>
+        <item>Ballets,Theaters</item>
+        <item>Cabaret</item>
+        <item>Cirque du Soleil</item>
+        <item>Luaus</item>
+        <item>Sporting events and packages</item>
+        <item>Theater and musicals</item>
+        <item>Blues Bars</item>
+        <item>Piano Bar</item>
+        <item>Country Western Bars</item>
+        <item>Comedy Club</item>
+    </string-array>
+    <string-array name="Events">
+        <item>Food and Drink Festivals</item>
+        <item>Sporting Events</item>
+        <item>Cultural Events</item>
+        <item>Seasonal Fireworks</item>
+        <item>Exhibitions</item>
+        <item>Music Festivals</item>
+    </string-array>
+    <string-array name="Food_and_Drink">
+        <item>Farmers markets</item>
+        <item>Distillery Tours</item>
+        <item>Wineries</item>
+        <item>Breweries</item>
+        <item>Distilleries</item>
+        <item>Beer tastings and tours</item>
+        <item>Coffee and tea tours</item>
+        <item>Cooking classes</item>
+        <item>Food tours</item>
+        <item> Wine tastings and tours</item>
+        <item>Wine Bar</item>
+    </string-array>
+    <string-array name="Fun_and_Games">
+        <item>Bowling Alleys</item>
+        <item>Movie Theaters</item>
+        <item>Game/ Entertainment Centers</item>
+        <item>Comedy Clubs</item>
+        <item>Character Experiences</item>
+        <item>Wedding Chapels</item>
+        <item>Shooting ranges</item>
+        <item>Scavenger hunt</item>
+        <item>Escape games</item>
+        <item>Rides and Activities</item>
+        <item>Sports Complexes</item>
+        <item>Miniature Golf</item>
+        <item>Paint and Pottery Studios</item>
+        <item>Dog Tracks</item>
+        <item>Horse Tracks</item>
+        <item>Casinos</item>
+        <item>Playgrounds</item>
+    </string-array>
+    <string-array name="Museums">
+        <item>Observatories/ Planetariums</item>
+        <item>Military Museums</item>
+        <item>Museums</item>
+        <item>Natural History Museums</item>
+        <item>Children Museums</item>
+        <item>Science Museums</item>
+        <item>Specialty Museums</item>
+        <item>Art Galleries</item>
+        <item>Art Museums</item>
+        <item>History Museums</item>
+    </string-array>
+    <string-array name="Nature_and_Parks">
+        <item>National Parks</item>
+        <item>Playgrounds</item>
+        <item>Biking Trails</item>
+        <item>Equestrian Trails</item>
+        <item>Hiking Trails</item>
+        <item>Motorcycle Trails</item>
+        <item>Off road/All Terrain Vehicle Trails</item>
+        <item>Ski/ Snowboard Areas</item>
+        <item>Beaches</item>
+        <item>Zoos</item>
+        <item>Aquariums</item>
+        <item>Bodies of Water</item>
+        <item>Canyons</item>
+        <item>Caverns/ Caves</item>
+        <item>Dams</item>
+        <item>Deserts</item>
+        <item>Forests</item>
+        <item>Gardens</item>
+        <item>Geologic Formations</item>
+        <item>Hot Springs/ Geysers</item>
+        <item>Islands</item>
+        <item>Marinas</item>
+        <item>Mountains</item>
+        <item>Nature/ Wildlife Areas</item>
+        <item>Parks</item>
+        <item>Reefs</item>
+        <item>State Parks</item>
+        <item>Valleys</item>
+        <item>Volcanos</item>
+        <item>Waterfalls</item>
+    </string-array>
+    <string-array name="Nightlife">
+        <item>Wine Bar</item>
+        <item>Bar</item>
+        <item>club and pub tours</item>
+        <item>Gay Bars</item>
+        <item>Piano Bar</item>
+        <item>Cigar Bars</item>
+        <item>Jazz Bars</item>
+        <item>Karaoke Bars</item>
+        <item>Country Western Bars</item>
+        <item>Bar/ Clubs</item>
+        <item>Blues Bars</item>
+        <item>Dance Club/ Discos</item>
+        <item>Comedy Clubs</item>
+        <item>Coffeehouses</item>
+    </string-array>
+    <string-array name="Outdoor_Activities">
+        <item>Sports Camps/ Clinics</item>
+        <item>Horseback Riding Stables</item>
+        <item>Golf Courses</item>
+        <item>Motorcycle Trail</item>
+        <item>Hiking Trails</item>
+        <item>Cross-country Ski Areas</item>
+        <item>Zoos</item>
+        <item>Surf Camp</item>
+        <item>Submarine tours</item>
+        <item>Parasailing and paragliding</item>
+        <item>Shark diving</item>
+        <item>Scuba and snorkelling</item>
+        <item>River rafting and tubing</item>
+        <item>Boat rentals</item>
+        <item>Dolphin and whale watching</item>
+        <item>Gondola cruises</item>
+        <item>Speed boats tours</item>
+        <item>Kayaking and canoeing</item>
+        <item>Equestrian Trails</item>
+        <item>Off road/All Terrain Vehicle Trails</item>
+        <item>Biking Trails</item>
+        <item>Ski/ Snowboard Areas</item>
+        <item>Trails</item>
+        <item>Beaches</item>
+        <item>Scenic Drives</item>
+        <item>Horse-Drawn Carriage Tours</item>
+        <item>Jogging Paths/ Tracks</item>
+        <item>Resort Communities</item>
+        <item>Other outdoor activities</item>
+        <item>Zipline tours</item>
+        <item>Stand-Up Paddleboarding</item>
+        <item>Ski and snow tours</item>
+        <item>Safaris</item>
+        <item>Running tours</item>
+        <item>Canyoning and Rappelling Tours</item>
+        <item>Air tours</item>
+        <item>Nature and wildlife tours</item>
+        <item>Boat Tours</item>
+        <item>Hiking and camping tours</item>
+        <item>Golf tours and tee times</item>
+        <item>Fishing charters and tours</item>
+        <item>Eco tours</item>
+        <item>Climbing tours</item>
+        <item>Bike tours</item>
+        <item>Balloon rides</item>
+        <item>Adrenaline and extreme tours</item>
+        <item>4WD</item>
+        <item>ATV and off-road tours</item>
+        <item>Duck tours</item>
+        <item>Waterskiing and jetskiing</item>
+        <item>Swim with dolphins</item>
+        <item>Surfing</item>
+        <item>Windsurfing and Kitesurfing</item>
+        <item>Gear rentals</item>
+        <item>Water sports</item>
+    </string-array>
+    <string-array name="Shopping">
+        <item>Malls</item>
+        <item>Shops</item>
+        <item>Specialty Shops</item>
+        <item>Art Galleries</item>
+        <item>Airport Shops</item>
+        <item>Shopping tours</item>
+        <item>Fashion shows and tours</item>
+        <item>Farmers markets</item>
+        <item>Department Stores</item>
+        <item>Factory Outlets</item>
+        <item>Antique Shops</item>
+        <item>Flea/ Street Markets</item>
+    </string-array>
+    <string-array name="Sights_and_Landmarks">
+        <item>Religious Sites</item>
+        <item>Historic Sites</item>
+        <item>Ancient Ruins</item>
+        <item>Educational Sites</item>
+        <item>CastlesChurches/ Cathedrals</item>
+        <item>Scenic/ Historic Walking Areas</item>
+        <item>Government Buildings</item>
+        <item>Reservations</item>
+        <item>Historic Walking Areas</item>
+        <item>Mines</item>
+        <item>Civic Centers</item>
+        <item>Ghost Towns</item>
+        <item>Military Bases/ Facilities</item>
+        <item>Battlefields</item>
+        <item>Missions</item>
+        <item>Farms</item>
+        <item>Landmarks/ Points of Interest</item>
+        <item>Architectural Buildings</item>
+        <item>Monuments/ Statues</item>
+        <item>Bridges</item>
+        <item>Scenic Drives</item>
+        <item>Observation Decks/ Towers</item>
+        <item>Lookouts</item>
+        <item>Lighthouses</item>
+        <item>Ships,Wharfs/ Piers/ Boardwalks</item>
+        <item>Fountains</item>
+        <item>Mysterious Sites</item>
+        <item>Arenas/ Stadiums/ Fields</item>
+        <item>Race Car Tracks</item>
+    </string-array>
+    <string-array name="Spas_and_Wellness">
+        <item>Roman baths</item>
+        <item>Arab baths</item>
+        <item>Day Spas</item>
+        <item>Hammams and Turkish baths</item>
+        <item>Yoga and pilates</item>
+        <item>Thermal spas and hot springs</item>
+        <item>Health Clubs</item>
+        <item>Spas</item>
+        <item>Onsen Resorts</item>
+    </string-array>
+    <string-array name="Water_and_Amusement_Parks">
+        <item>Amusement/ Theme Parks</item>
+        <item>Disney</item>
+        <item>Water Parks</item>
+    </string-array>
+    <string-array name="Zoos_and_Aquarium">
+        <item>Zoos</item>
+        <item>Aquariums</item>
+    </string-array>
+</activites>

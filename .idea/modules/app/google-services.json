@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "242004456093",
+    "firebase_url": "https://trek-84207.firebaseio.com",
+    "project_id": "trek-84207",
+    "storage_bucket": "trek-84207.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242004456093:android:f89faa5bd4720e3fbf5a74",
+        "android_client_info": {
+          "package_name": "com.example.trek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242004456093-f8j0lo5deh5scdsm2r7u3juav27lomgn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.trek",
+            "certificate_hash": "cf424dfe8f9d6059167d89a17c4519832dea7547"
+          }
+        },
+        {
+          "client_id": "242004456093-9e8af273get1o888dfmvbd1o33pca7s6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuQOT46JA1tpF5b0J5kUBNhlIxY8y9o0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242004456093-9e8af273get1o888dfmvbd1o33pca7s6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
