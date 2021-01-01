@@ -36,7 +36,7 @@ private FirebaseAuth fAuth;
         button = (Button) view.findViewById(R.id.send_otp_btn);
         Email = (EditText) view.findViewById(R.id.enter_email_otp);
         button.setOnClickListener(this);
-        fAuth = FirebaseAuth.getInstance();
+
 
         return view;
     }
@@ -45,19 +45,7 @@ private FirebaseAuth fAuth;
     public void onClick(View view) {
         switch(view.getId()){
             case R.id.send_otp_btn:
-                String email = Email.getText().toString().trim();
-                if(TextUtils.isEmpty(email)){
-                    Email.setError("Email is required for password reset");
-                }
-                fAuth.sendPasswordResetEmail(email).addOnCompleteListener(new OnCompleteListener<Void>() {
-                    @Override
-                    public void onComplete(@NonNull Task<Void> task) {
-                        if(task.isSuccessful()){
-                            Toast.makeText(getActivity(),"Email Sent",Toast.LENGTH_SHORT).show();
-                            getFragmentManager().popBackStack();
-                        }
-                    }
-                });
+
                 break;
             default:
                 break;

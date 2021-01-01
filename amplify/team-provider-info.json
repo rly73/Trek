@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-trek-dev-141039-authRole",
+      "UnauthRoleArn": "arn:aws:iam::398591013223:role/amplify-trek-dev-141039-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::398591013223:role/amplify-trek-dev-141039-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-trek-dev-141039-deployment",
+      "UnauthRoleName": "amplify-trek-dev-141039-unauthRole",
+      "StackName": "amplify-trek-dev-141039",
+      "StackId": "arn:aws:cloudformation:eu-west-1:398591013223:stack/amplify-trek-dev-141039/0d9bb170-0b3d-11eb-873d-06fab0925578",
+      "AmplifyAppId": "d23ahzexv04n2t"
+    },
+    "categories": {
+      "auth": {
+        "trek5610ee6c": {}
+      }
+    }
+  }
+}

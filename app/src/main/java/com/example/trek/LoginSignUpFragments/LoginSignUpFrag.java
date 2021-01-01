@@ -31,12 +31,9 @@ public class LoginSignUpFrag extends Fragment implements View.OnClickListener {
         button.setOnClickListener(this);
         button2 = (Button) view.findViewById(R.id.signup_btn);
         button2.setOnClickListener(this);
-        fAuth = FirebaseAuth.getInstance();
 
-        if(fAuth.getCurrentUser() != null){
-            getActivity().finish();
-            startActivity(new Intent(getContext(), MainScreenFragHolder.class));
-        }
+
+
         return view;
     }
 

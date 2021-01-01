@@ -4,14 +4,18 @@ buildscript {
     repositories {
         google()
         jcenter()
-        mavenCentral()
+        maven {
+            url "https://plugins.gradle.org/m2/"
+        }
     }
 
     dependencies {
-        classpath "com.android.tools.build:gradle:4.0.1"
+        classpath "com.android.tools.build:gradle:4.0.2"
         classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
-        classpath 'com.google.gms:google-services:4.3.3'
-        classpath 'com.amazonaws:aws-android-sdk-appsync-gradle-plugin:2.6.+'
+        classpath 'com.google.gms:google-services:4.3.4'
+        classpath 'com.amplifyframework:amplify-tools-gradle-plugin:1.0.1'
+        classpath 'com.amazonaws:aws-android-sdk-appsync-gradle-plugin:3.1.1'
+
 
     }
 }
@@ -20,7 +24,9 @@ allprojects {
     repositories {
         google()
         jcenter()
-        mavenCentral()
+        maven {
+            url "https://plugins.gradle.org/m2/"
+        }
     }
 }
 

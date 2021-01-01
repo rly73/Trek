@@ -15,7 +15,6 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
-
 import com.example.trek.MainScreenFragHolder;
 import com.example.trek.R;
 import com.google.android.gms.tasks.OnCompleteListener;
@@ -38,6 +37,9 @@ FirebaseAuth fAuth;
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
+
+
+
         View view = inflater.inflate(R.layout.fragment_login, container, false);
 
         Email = (EditText) view.findViewById(R.id.enter_email);
@@ -48,6 +50,7 @@ FirebaseAuth fAuth;
 
         Button.setOnClickListener(this);
         Forgotpassword.setOnClickListener(this);
+
 
         return view;
     }
